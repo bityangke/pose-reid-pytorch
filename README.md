@@ -9,6 +9,9 @@ A code demo for Zixuan He's undergraduate thesis: A Pose Description of Person R
 <img src="https://github.com/Alanford10/pose-reid-pytorch/blob/master/result1.gif", width="720">
 </p>
 
+<p align="left">
+<img src="https://github.com/Alanford10/pose-reid-pytorch/blob/master/result2.gif", width="720">
+</p>
 
 ## Require
 1. Python 3.6
