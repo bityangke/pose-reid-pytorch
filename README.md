@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # Pose-based Description of Person Re-identification
 
 ## Introduction
@@ -76,11 +74,3 @@ python run.py --gpu_ids 0 --svd_val 2 --pose_val 14 --plot_skeleton --src_video_
     year      = {2017},
 }
 ```
-=======
-# pose-reid-pytorch
-A code demo for Zixuan He's undergraduate thesis: A Pose Description of Person Re-identification
->>>>>>> 90288543bc848f6ad9a1a92f6aebd7555debc4a1
-=======
-# pose-reid-pytorch
-A code demo for Zixuan He's undergraduate thesis: A Pose Description of Person Re-identification
->>>>>>> 90288543bc848f6ad9a1a92f6aebd7555debc4a1
