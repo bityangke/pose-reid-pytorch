@@ -6,7 +6,7 @@ A code demo for Zixuan He's undergraduate thesis: A Pose Description of Person R
 ## Results
 
 <p align="left">
-<img src="https://github.com/tensorboy/pytorch_Realtime_Multi-Person_Pose_Estimation/result1.gif", width="720">
+<img src="https://github.com/Alanford10/pose-reid-pytorch/blob/master/result1.gif", width="720">
 </p>
 
 
